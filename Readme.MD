@@ -76,7 +76,7 @@ _What do you learn here?_
 - To define an array
 - Variable Types
 
-### 4. [Quantam Interference]()
+### 4. [Quantam Interference](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QuantamInterference)
 
 As we move ahead, quantam computing draws parallel to quantam mechanics. Thus, interference results similarly even in quantam interference.
 
