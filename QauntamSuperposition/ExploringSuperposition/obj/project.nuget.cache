@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pRw/Czf/y/cjSO/SIs/Svu2h0OjdAwTDgFL8R0hOsKWJBd6n/9DUroW8cEgt3Q7o7f7WriVlRS8XnU7Z1DID2Q==",
+  "dgSpecHash": "13/l2WInfqcYw97N7IKh1n6kADbZ7nwadJ2GTRyNri1Qz5GTpg9JMoYZ71IDvZef3Twr4SfZXyfUpFcYljNgbA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\sawan\\VSCode\\Quantam\\ExploringSuperposition\\ExploringSuperposition\\ExploringSuperposition.csproj",
+  "projectFilePath": "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\ExploringSuperposition\\ExploringSuperposition.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sawan\\.nuget\\packages\\azure.core\\1.0.1\\azure.core.1.0.1.nupkg.sha512",
     "C:\\Users\\sawan\\.nuget\\packages\\azure.identity\\1.1.0\\azure.identity.1.1.0.nupkg.sha512",

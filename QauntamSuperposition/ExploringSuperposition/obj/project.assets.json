@@ -7824,11 +7824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\sawan\\VSCode\\Quantam\\ExploringSuperposition\\ExploringSuperposition\\ExploringSuperposition.csproj",
+      "projectUniqueName": "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\ExploringSuperposition\\ExploringSuperposition.csproj",
       "projectName": "ExploringSuperposition",
-      "projectPath": "c:\\Users\\sawan\\VSCode\\Quantam\\ExploringSuperposition\\ExploringSuperposition\\ExploringSuperposition.csproj",
+      "projectPath": "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\ExploringSuperposition\\ExploringSuperposition.csproj",
       "packagesPath": "C:\\Users\\sawan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\sawan\\VSCode\\Quantam\\ExploringSuperposition\\ExploringSuperposition\\obj\\",
+      "outputPath": "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\ExploringSuperposition\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sawan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -21,6 +21,10 @@ dotnet run
 `
 dotnet run --no-build
 `
+4) To run with command line input:
+`
+dotnet run --alpha <Value_you_want_to_insert>
+`
 
 ## Contents
 
@@ -41,6 +45,33 @@ _What do you learn here?_
 - Taking Inputs
 - Declaring and Calling a function
 - alternate do while loop execution in Q#
+
+3.[Quanatam SuperPosition](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition)
+This whole folder is like a sepearte repo, here first I have explored superposition and later explained about qubits.
+
+a.[Exploring Superposition](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition/ExploringSuperposition)
+This is simple program where we learn about [DumbMachine](https://docs.microsoft.com/en-us/qsharp/api/qsharp/microsoft.quantum.diagnostics.dumpmachine). In short, it targets the current state of machine.
+
+_What do you learn here?_
+
+- About DumbMachine
+- Different States (which you can see in the result of the code)
+
+b.[Single Qubits]()
+This is where you understand how the machine generates and decide on the probablity between the 2 bits.
+
+_What do you learn here?_
+
+- Command line Input
+- Machine's way to predict
+
+c.[Multiple Qubits]()
+Like in other programming languages, This program teaches you how to define arrays or set of values.
+
+_What do you learn here?_
+
+- To define an array
+- Variable Types
 
 ## Information Regarding Standard Libraries
 
