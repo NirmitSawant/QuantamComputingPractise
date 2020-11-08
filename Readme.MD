@@ -85,6 +85,6 @@ _What do you learn here?_
 - How two states interfere inside the machine
 - Realtive phases
 
-## Information Regarding Standard Libraries
+## To check out information regarding standard libraries, [click here](https://docs.microsoft.com/en-us/quantum/user-guide/libraries/standard/)
 
-Cam be found [here.](https://docs.microsoft.com/en-us/quantum/user-guide/libraries/standard/)
+## More details at [Quantam Computing Fundamentals](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
