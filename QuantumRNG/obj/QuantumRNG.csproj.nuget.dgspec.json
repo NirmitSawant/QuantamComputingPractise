@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\QuantumRNG.csproj": {}
+    "c:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\QuantumRNG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\QuantumRNG.csproj": {
+    "c:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\QuantumRNG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\QuantumRNG.csproj",
+        "projectUniqueName": "c:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\QuantumRNG.csproj",
         "projectName": "QuantumRNG",
-        "projectPath": "C:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\QuantumRNG.csproj",
+        "projectPath": "c:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\QuantumRNG.csproj",
         "packagesPath": "C:\\Users\\sawan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\obj\\",
+        "outputPath": "c:\\Users\\sawan\\VSCode\\Quantam\\QuantumRNG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sawan\\AppData\\Roaming\\NuGet\\NuGet.Config",

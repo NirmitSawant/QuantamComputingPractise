@@ -39,3 +39,7 @@ _What do you learn here?_
 - Taking Inputs
 - Declaring and Calling a function
 - alternate do while loop execution in Q#
+
+## Information Regarding Standard Libraries
+
+Cam be found [here.](https://docs.microsoft.com/en-us/quantum/user-guide/libraries/standard/)
