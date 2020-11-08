@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\SingleQubit\\SingleQubit.csproj": {}
+    "c:\\Users\\sawan\\VSCode\\Quantam\\QuantamInterference\\QuantamInterference.csproj": {}
   },
   "projects": {
-    "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\SingleQubit\\SingleQubit.csproj": {
+    "c:\\Users\\sawan\\VSCode\\Quantam\\QuantamInterference\\QuantamInterference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\SingleQubit\\SingleQubit.csproj",
-        "projectName": "SingleQubit",
-        "projectPath": "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\SingleQubit\\SingleQubit.csproj",
+        "projectUniqueName": "c:\\Users\\sawan\\VSCode\\Quantam\\QuantamInterference\\QuantamInterference.csproj",
+        "projectName": "QuantamInterference",
+        "projectPath": "c:\\Users\\sawan\\VSCode\\Quantam\\QuantamInterference\\QuantamInterference.csproj",
         "packagesPath": "C:\\Users\\sawan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\SingleQubit\\obj\\",
+        "outputPath": "c:\\Users\\sawan\\VSCode\\Quantam\\QuantamInterference\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sawan\\AppData\\Roaming\\NuGet\\NuGet.Config",

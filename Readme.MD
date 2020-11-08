@@ -28,7 +28,8 @@ dotnet run --alpha <Value_you_want_to_insert>
 
 ## Contents
 
-1.[Quantam Hello](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QuantamHello)
+### 1. [Quantam Hello](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QuantamHello)
+
 This program is hello world in Q# programming language.
 
 _What do you learn here?_
@@ -37,7 +38,8 @@ _What do you learn here?_
 - What does Entry Point Mean?
 - Declaration and open keyword.
 
-2.[Quantam Random Number Generator](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QuantumRNG)
+### 2. [Quantam Random Number Generator](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QuantumRNG)
+
 This generates random number from 0 to maximum value you define.
 
 _What do you learn here?_
@@ -46,7 +48,8 @@ _What do you learn here?_
 - Declaring and Calling a function
 - alternate do while loop execution in Q#
 
-3.[Quanatam SuperPosition](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition)
+### 3. [Quanatam SuperPosition](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition)
+
 This whole folder is like a sepearte repo, here first I have explored superposition and later explained about qubits.
 
 a.[Exploring Superposition](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition/ExploringSuperposition)
@@ -72,6 +75,15 @@ _What do you learn here?_
 
 - To define an array
 - Variable Types
+
+### 4. [Quantam Interference]()
+
+As we move ahead, quantam computing draws parallel to quantam mechanics. Thus, interference results similarly even in quantam interference.
+
+_What do you learn here?_
+
+- How two states interfere inside the machine
+- Realtive phases
 
 ## Information Regarding Standard Libraries
 

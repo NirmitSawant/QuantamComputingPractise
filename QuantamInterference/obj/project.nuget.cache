@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wcIOEsDPo2xNeDU+tic2h5axJNzTomR1uCvjWACxsjQRN3j/C3pLWvazWKjwSKjLELfZCaCDDfgPOVvffWClrA==",
+  "dgSpecHash": "jkL/OSCuFCNZCgbGYMLXT01sI5cwYaqydCARwTRkHuDZvfXv6ITJaDCK4kLOfp+RU6W0mZY1MAbdLNRJ9hbf5Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\sawan\\VSCode\\Quantam\\QauntamSuperposition\\SingleQubit\\SingleQubit.csproj",
+  "projectFilePath": "c:\\Users\\sawan\\VSCode\\Quantam\\QuantamInterference\\QuantamInterference.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sawan\\.nuget\\packages\\azure.core\\1.0.1\\azure.core.1.0.1.nupkg.sha512",
     "C:\\Users\\sawan\\.nuget\\packages\\azure.identity\\1.1.0\\azure.identity.1.1.0.nupkg.sha512",
