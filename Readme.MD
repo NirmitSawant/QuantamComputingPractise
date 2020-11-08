@@ -57,7 +57,7 @@ _What do you learn here?_
 - About DumbMachine
 - Different States (which you can see in the result of the code)
 
-b.[Single Qubits]()
+b.[Single Qubits](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition/SingleQubit)
 This is where you understand how the machine generates and decide on the probablity between the 2 bits.
 
 _What do you learn here?_
@@ -65,7 +65,7 @@ _What do you learn here?_
 - Command line Input
 - Machine's way to predict
 
-c.[Multiple Qubits]()
+c.[Multiple Qubits](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition/MultipleQubits)
 Like in other programming languages, This program teaches you how to define arrays or set of values.
 
 _What do you learn here?_
