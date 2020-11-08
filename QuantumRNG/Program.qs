@@ -11,6 +11,8 @@ namespace QuantumRNG {
             return MResetZ(q);
         }
     }
+
+    // Declaration of Function
     operation SampleRandomNumberInRange(max : Int) : Int {
         mutable output = 0; 
         repeat {
@@ -20,13 +22,16 @@ namespace QuantumRNG {
             }
             set output = ResultArrayAsInt(bits);
         } until (output <= max);
+        // Do while loop in Q#
         return output;
     }
-    
+
     @EntryPoint()
     operation SampleRandomNumber() : Int {
         let max = 50;
         Message($"Sampling a random number between 0 and {max}: ");
+        // Taking Input 
         return SampleRandomNumberInRange(max);
+        // Calling a Function
     }
 }
