@@ -12,12 +12,12 @@ Two things you need to be installed in your system:
 
 ## How To Run The Programs
 
-- Make sure the terminal directory is the same where the program.qs is present.
-- Then run the below command in terminal:
+1) Make sure the terminal directory is the same where the program.qs is present.
+2) Then run the below command in terminal:
 `
 dotnet run
 `
-- To run without building:
+3) To run without building:
 `
 dotnet run --no-build
 `
