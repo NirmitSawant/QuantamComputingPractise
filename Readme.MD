@@ -5,17 +5,19 @@ This is a repo where you will find and explore as I travel through to learn Q# a
 ## Pre-requisite
 
 Two things you need to be installed in your system:
+
 1)[.Net Core](https://dotnet.microsoft.com/download)
+
 2)[Quantam Development Kit](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
 
 ## How To Run The Programs
 
-- Make sure the terminal directory is the same where the program.qs is present.
-- Then run the below command in terminal:
+1) Make sure the terminal directory is the same where the program.qs is present.
+2) Then run the below command in terminal:
 `
 dotnet run
 `
-- To run without building:
+3) To run without building:
 `
 dotnet run --no-build
 `
