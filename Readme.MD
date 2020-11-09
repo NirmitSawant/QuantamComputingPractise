@@ -53,6 +53,7 @@ _What do you learn here?_
 This whole folder is like a sepearte repo, here first I have explored superposition and later explained about qubits.
 
 #### a. [Exploring Superposition](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition/ExploringSuperposition)
+
 This is simple program where we learn about [DumbMachine](https://docs.microsoft.com/en-us/qsharp/api/qsharp/microsoft.quantum.diagnostics.dumpmachine). In short, it targets the current state of machine.
 
 _What do you learn here?_
@@ -61,6 +62,7 @@ _What do you learn here?_
 - Different States (which you can see in the result of the code)
 
 #### b. [Single Qubits](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition/SingleQubit)
+
 This is where you understand how the machine generates and decide on the probablity between the 2 bits.
 
 _What do you learn here?_
@@ -69,6 +71,7 @@ _What do you learn here?_
 - Machine's way to predict
 
 #### c. [Multiple Qubits](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition/MultipleQubits)
+
 Like in other programming languages, This program teaches you how to define arrays or set of values.
 
 _What do you learn here?_
