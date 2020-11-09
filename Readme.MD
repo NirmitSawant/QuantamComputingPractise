@@ -25,6 +25,10 @@ dotnet run --no-build
 `
 dotnet run --alpha <Value_you_want_to_insert>
 `
+5) To run using simulator:
+`
+dotnet run --simulator <Resources_Estimator>
+`
 
 ## Contents
 
@@ -52,7 +56,7 @@ _What do you learn here?_
 
 This whole folder is like a sepearte repo, here first I have explored superposition and later explained about qubits.
 
-![](https://img.brainkart.com/extra3/xYK1lWn.jpg)
+![Superpostion](https://img.brainkart.com/extra3/xYK1lWn.jpg)
 
 #### a. [Exploring Superposition](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition/ExploringSuperposition)
 
@@ -85,12 +89,23 @@ _What do you learn here?_
 
 As we move ahead, quantam computing draws parallel to quantam mechanics. Thus, interference results similarly even in quantam interference.
 
-![](https://i.pinimg.com/originals/29/22/9e/29229ea8498138bd225e12892395c5fd.png)
+![Interference](https://i.pinimg.com/originals/29/22/9e/29229ea8498138bd225e12892395c5fd.png)
 
 _What do you learn here?_
 
 - How two states interfere inside the machine
 - Realtive phases
+
+### 5. [Quantam Entanglament]()
+
+This program takes the superposition to the next level.
+
+![Entanglament](https://physics.aps.org/assets/751cea44-b999-40bd-b58e-4f1abc274fa2/e38_1.png)
+
+_What do you learn here?_
+
+- Superposition or Entanglament of more than 2 states
+- Run program with a simulator(Make sure you run the program with simulator)
 
 ## To check out information regarding standard libraries, [click here](https://docs.microsoft.com/en-us/quantum/user-guide/libraries/standard/)
 
