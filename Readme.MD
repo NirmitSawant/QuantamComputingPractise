@@ -52,6 +52,8 @@ _What do you learn here?_
 
 This whole folder is like a sepearte repo, here first I have explored superposition and later explained about qubits.
 
+![](https://img.brainkart.com/extra3/xYK1lWn.jpg)
+
 #### a. [Exploring Superposition](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QauntamSuperposition/ExploringSuperposition)
 
 This is simple program where we learn about [DumbMachine](https://docs.microsoft.com/en-us/qsharp/api/qsharp/microsoft.quantum.diagnostics.dumpmachine). In short, it targets the current state of machine.
@@ -82,6 +84,8 @@ _What do you learn here?_
 ### 4. [Quantam Interference](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QuantamInterference)
 
 As we move ahead, quantam computing draws parallel to quantam mechanics. Thus, interference results similarly even in quantam interference.
+
+![](https://i.pinimg.com/originals/29/22/9e/29229ea8498138bd225e12892395c5fd.png)
 
 _What do you learn here?_
 
