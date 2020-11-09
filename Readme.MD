@@ -6,9 +6,9 @@ This is a repo where you will find and explore as I travel through to learn Q# a
 
 Two things you need to be installed in your system:
 
-1)[.Net Core](https://dotnet.microsoft.com/download)
+1) [.Net Core](https://dotnet.microsoft.com/download)
 
-2)[Quantam Development Kit](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
+2) [Quantam Development Kit](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
 
 ## How To Run The Programs
 
