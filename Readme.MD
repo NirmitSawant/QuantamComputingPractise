@@ -96,7 +96,7 @@ _What do you learn here?_
 - How two states interfere inside the machine
 - Realtive phases
 
-### 5. [Quantam Entanglament]()
+### 5. [Quantam Entanglament](https://github.com/NirmitSawant/QuantamComputingPractise/tree/master/QuantamEntanglement)
 
 This program takes the superposition to the next level.
 
